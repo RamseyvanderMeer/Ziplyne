@@ -1,0 +1,6 @@
+export { default as Header } from './main/header'
+export { default as Footer } from './main/footer'
+export { default as Title } from './content/title'
+export { default as Guide } from './content/guide'
+export { default as Create } from './content/create'
+export { default as Canvas } from './main/canvas'
